@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WeatherApp</string>
+    <string name="connection_error">Connection Error!</string>
+    <string name="action_settings">Settings</string>
+    <string name="xml_error">XML Error!</string>
+    <string name="widget_name">WeatherWidget</string>
+    <string name="title_activity_weather_widget_settings">WeatherWidgetSettings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
